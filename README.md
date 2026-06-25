@@ -11,3 +11,6 @@ A simple Traffic Light Controller implemented in Verilog HDL using Xilinx Vivado
 ## Applications
 - Traffic signal automation
 - Digital design learning
+
+## RTL Schematic
+[RTL Schematic](images/rtl_schematic.png)
